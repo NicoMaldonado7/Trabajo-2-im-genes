@@ -1,0 +1,20 @@
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
+    color: yellow;
+    text-align: center;
+}
+body{
+    background-color: rgb(16, 164, 164);
+}
+
+.img-todas{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+.img-todas img {
+   border: 8px white solid;
+   margin: 8px;
+}
